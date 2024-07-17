@@ -1,0 +1,12 @@
+body {
+    background: #eee;
+}
+
+canvas {
+    background: rgba(255,255,255, .95);
+    border: 4px solid #333;
+    border-top: none;
+    position: absolute;
+    inset: 0;
+    margin: auto;
+}
